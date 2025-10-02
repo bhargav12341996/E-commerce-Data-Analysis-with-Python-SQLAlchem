@@ -21,10 +21,10 @@ With the data loaded into SQL, I can now:
 
 🔹 Benefits
 
-Automates repetitive manual data loading
+- Automates repetitive manual data loading
 
-Improves scalability (works for thousands → millions of rows)
+- Improves scalability (works for thousands → millions of rows)
 
-Ensures data quality & consistency
+- Ensures data quality & consistency
 
-Saves time so the focus is on insights, not setup
+- Saves time so the focus is on insights, not setup
